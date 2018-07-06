@@ -1,9 +1,10 @@
-package com.multimeleon.pjapples.unittest_refactor_exerise.models;
+package com.multimeleon.pjapples.unittest_refactor_exerise.models.data.remote.model.response;
 
 import android.support.annotation.Nullable;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
+import com.multimeleon.pjapples.unittest_refactor_exerise.models.data.remote.model.SearchResult;
 
 import java.util.List;
 
